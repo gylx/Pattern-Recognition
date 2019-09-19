@@ -1,2 +1,2 @@
 # Pattern-Recognition
-Coursework for the pattern recognition course at Imperial College 
+Report for the pattern recognition coursework at Imperial College London
